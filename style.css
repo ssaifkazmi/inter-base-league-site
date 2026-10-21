@@ -554,16 +554,3 @@ h1, h2, h3 {
 img[src*="newcontact-hero.jpg"] {
   object-position: 35% center;
 }
-.gallery-card {
-  padding: 0;
-}
-
-.gallery-card img {
-  width: 100%;
-  height: 100%;
-  display: block;
-  object-fit: cover;
-}
-.gallery-card {
-  height: 260px;
-}
