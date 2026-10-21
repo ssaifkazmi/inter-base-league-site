@@ -551,6 +551,6 @@ h1, h2, h3 {
     padding: 4rem 0;
   }
 }
-img[src*="contact-hero.jpg"] {
+img[src*="newcontact-hero.jpg"] {
   object-position: 65% center;
 }
