@@ -564,3 +564,6 @@ img[src*="newcontact-hero.jpg"] {
   display: block;
   object-fit: cover;
 }
+.gallery-card {
+  height: 260px;
+}
