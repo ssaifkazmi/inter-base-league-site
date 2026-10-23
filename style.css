@@ -560,3 +560,6 @@ img[src*="newwomens-league-1.jpg"] {
   object-fit: cover;
   object-position: center;
 }
+img[src*="newgallery-6.jpg"] {
+  object-position: 75% center;
+}
